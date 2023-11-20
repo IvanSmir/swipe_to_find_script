@@ -13,7 +13,7 @@ The SwipeToFind Script is an automated tool designed to interact with Android de
 ```
 **Clone the Repository**:
 ```bash
-  git clone 
+  git clone https://github.com/IvanSmir/swipe_to_find_script.git
 ```
 Clone the Repository:
 ```bash
